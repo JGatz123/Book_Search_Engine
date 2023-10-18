@@ -8,14 +8,14 @@ This application requires no additional softeware or programs to be installed. A
 
 ## Usage: 
 ### The user will open the site and be greeted with this homescreen
-![](./assets/rmeimgs/bse1.png)
+![](./Assets/rmeimgs/bse1.png)
 
 ### The user will then type in the name of any city and be shown the current weather and conditions,
-![](./assets/rmeimgs/bse2.png)
+![](./Assets/rmeimgs/bse2.png)
 ### The user upon scrolling down will see the same information as listed above but for the next five day forecast,
-![](./assets/rmeimgs/bse3.png)
+![](./Assets/rmeimgs/bse3.png)
 ### The user will have the ability to type any any city name and the previous city data will be cleared from the screen and new data will be uploaded,
-![](./assets/rmeimgs/bse4.png)
+![](./Assets/rmeimgs/bse4.png)
 
 MIT License
 
