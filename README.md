@@ -8,7 +8,7 @@ This application requires no additional softeware or programs to be installed. A
 
 ## Usage: 
 ### The user will open the site and be greeted with this homescreen
-![](\Assets\rmeimgs\bse1.png)
+![](.\Assets\rmeimgs\bse1.png)
 
 ### If the user clicks in the top right corner that says "login" they will have the ability to sign in if they are an existing user or signup if they are a new member.
 ![](./Assets/rmeimgs/bse2.png)
