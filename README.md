@@ -10,11 +10,14 @@ This application requires no additional softeware or programs to be installed. A
 ### The user will open the site and be greeted with this homescreen
 ![](./Assets/rmeimgs/bse1.png)
 
-### The user will then type in the name of any city and be shown the current weather and conditions,
+### If the user clicks in the top right corner that says "login" they will have the ability to sign in if they are an existing user or signup if they are a new member.
 ![](./Assets/rmeimgs/bse2.png)
-### The user upon scrolling down will see the same information as listed above but for the next five day forecast,
+![](./Assets/rmeimgs/bse5.png)
+
+### Upon searching for a book the user will see all relevent searches as well if logged in will be able to save their book searches.
 ![](./Assets/rmeimgs/bse3.png)
-### The user will have the ability to type any any city name and the previous city data will be cleared from the screen and new data will be uploaded,
+
+### Finally, if the user logs out they will still be able to search for books however will be unable to save the books and in order to do so again will have to log in.
 ![](./Assets/rmeimgs/bse4.png)
 
 MIT License
